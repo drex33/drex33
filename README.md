@@ -17,3 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
+
+23.06.13 ~ 
+소만사 클라우드플랫폼팀 연구원
+
+애자일 방법론 지향
